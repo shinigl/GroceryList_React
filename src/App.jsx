@@ -1,11 +1,12 @@
-import { useState } from 'react'
+
 import './App.css'
+import Grocery from './components/GroceryInput'
 
 function App() {
 
   return (
     <>
-    
+    <Grocery/>
     </>
   )
 }
